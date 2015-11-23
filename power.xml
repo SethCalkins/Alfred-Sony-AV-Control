@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <s:Body>
+    <u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1">
+<!-- Home -->
+      <IRCCCode>AAAAAgAAADAAAAAVAQ==</IRCCCode>
+    </u:X_SendIRCC>
+  </s:Body>
+</s:Envelope>
+
+
+<!--
+STR:PowerMain
+  AAAAAgAAADAAAAAVAQ==
+
+Mute
+  AAAAAgAAADAAAAAUAQ==
+
+MuteOn
+  AAAAAwAADRAAAAAgAQ==
+
+MuteOff
+  AAAAAwAADRAAAAAhAQ==
+
+Confirm
+  AAAAAgAAADAAAAAMAQ==
+
+Home
+  AAAAAgAAADAAAABTAQ==
+
+Display
+  AAAAAgAAADAAAABLAQ==
+
+Return
+  AAAAAwAAARAAAAB9AQ==
+
+Options
+  AAAAAwAAARAAAABzAQ==
+
+STR:FunctionPlus
+  AAAAAgAAALAAAABpAQ==
+
+STR:FunctionMinus
+  AAAAAgAAALAAAABqAQ==
+
+Play
+  AAAAAwAAARAAAAAyAQ==
+
+Pause
+  AAAAAwAAARAAAAA5AQ==
+
+Stop
+  AAAAAwAAARAAAAA4AQ==
+
+Next
+  AAAAAwAAARAAAAAxAQ==
+
+Prev
+  AAAAAwAAARAAAAAwAQ==
+
+STR:Shuffle
+  AAAAAwAAARAAAAAqAQ==
+
+STR:Repeat
+  AAAAAwAAARAAAAAsAQ==
+
+STR:FF
+  AAAAAwAAARAAAAA0AQ==
+
+STR:FR
+  AAAAAwAAARAAAAAzAQ==
+
+VolumeUp
+  AAAAAgAAADAAAAASAQ==
+
+VolumeDown
+  AAAAAgAAADAAAAATAQ==
+
+Up
+  AAAAAgAAALAAAAB4AQ==
+
+Down
+  AAAAAgAAALAAAAB5AQ==
+
+Left
+  AAAAAgAAALAAAAB6AQ==
+
+Right
+  AAAAAgAAALAAAAB7AQ==
+
+STR:Num1
+  AAAAAgAAADAAAAAAAQ==
+
+STR:Num2
+  AAAAAgAAADAAAAABAQ==
+
+STR:Num3
+  AAAAAgAAADAAAAACAQ==
+
+STR:Num4
+  AAAAAgAAADAAAAADAQ==
+
+STR:Num5
+  AAAAAgAAADAAAAAEAQ==
+
+STR:Num6
+  AAAAAgAAADAAAAAFAQ==
+
+STR:Num7
+  AAAAAgAAADAAAAAGAQ==
+
+STR:Num8
+  AAAAAgAAADAAAAAHAQ==
+
+STR:Num9
+  AAAAAgAAADAAAAAIAQ==
+
+STR:Num0
+  AAAAAgAAADAAAAAJAQ==
+
+STR:PureDirect
+  AAAAAwAABRAAAAB5AQ==
+  -->

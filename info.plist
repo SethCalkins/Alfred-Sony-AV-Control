@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>sethcalkins.local</string>
+	<key>connections</key>
+	<dict>
+		<key>2A6E0E71-6579-4ED2-AB0E-4EB2D6016B5F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DBB498D1-B9C9-4DC5-A039-C38AC6A2AE54</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>16039760-F173-4AB8-9C73-DA7401D5DE23</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>4F438BBA-9FF8-4676-BD5E-C9FD7B6C3593</key>
+		<array/>
+		<key>6513D516-D123-4922-BE39-5F968CA8513D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EEB56C58-4D06-45FD-A270-6F8A86FD423E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>769E6ADB-F7DE-46DA-A28E-6DE71373D32A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1A121382-C981-4446-8C3A-B0A8AA5BF06F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>77CCC33A-2C62-47B4-BD2F-18A3B1A4DE1E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E13670A6-E466-4580-BD0D-18C9FD569E8B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>7E73569A-09B9-49DA-A8C0-77CC8EA82773</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>42A05004-EC72-499A-8642-5F3B01F9B249</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>9EECDC75-F40F-481C-B5B6-3D6315CD36F8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7BFFD1D1-40AD-4044-9874-907E35C90923</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>A4686136-F285-4B6D-96FF-FFD3E3A9AE5B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>76D02099-E4E4-417D-9B1E-E8DD75EE0233</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>A7E0760B-8684-40A1-85CD-75952EF48517</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>B4CB7FF2-5C38-4AED-BE1A-E5BFBC4406E6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0E07347D-4BD1-4A9E-9E39-0E226B8B7ACE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>C866658D-F6DA-4F7B-AC3C-A6B4CC1FA4E2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E613EDAE-0205-492A-BAA0-FA6C7E7B7CFC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>DBB498D1-B9C9-4DC5-A039-C38AC6A2AE54</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FABA99BB-EF69-4455-A1B5-4A9744FB3551</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>E4CC7AAB-36D4-495E-9146-DE320B152C31</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6DD7D1E8-0FD8-49E0-8880-CED72C727684</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>E592BD46-B7FE-479A-8EF2-DCD13C62175E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>98E5262A-8F99-4CF3-9703-B948ECD0EE85</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>ECA2D1AA-2504-4699-8913-40ACC5712136</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D701B039-9C20-4FF9-83BB-CDE66FA93558</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Seth Calkins</string>
+	<key>description</key>
+	<string>TV Control</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>TV Control</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>3</integer>
+				<key>argumenttext</key>
+				<string>tv </string>
+				<key>hotkey</key>
+				<integer>17</integer>
+				<key>hotmod</key>
+				<integer>262144</integer>
+				<key>hotstring</key>
+				<string>T</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>4F438BBA-9FF8-4676-BD5E-C9FD7B6C3593</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>output</key>
+				<integer>0</integer>
+				<key>removeextension</key>
+				<false/>
+				<key>sticky</key>
+				<false/>
+				<key>text</key>
+				<string>Hello</string>
+				<key>title</key>
+				<string>Hello</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>FABA99BB-EF69-4455-A1B5-4A9744FB3551</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv volume up</string>
+				<key>text</key>
+				<string>Volume Up</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAgAAADAAAAASAQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>16039760-F173-4AB8-9C73-DA7401D5DE23</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>3</integer>
+				<key>argumenttext</key>
+				<string>off</string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>A7E0760B-8684-40A1-85CD-75952EF48517</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv power</string>
+				<key>text</key>
+				<string>TV Power</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>2A6E0E71-6579-4ED2-AB0E-4EB2D6016B5F</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAgAAADAAAAAVAQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>DBB498D1-B9C9-4DC5-A039-C38AC6A2AE54</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv volume down</string>
+				<key>text</key>
+				<string>TV Power</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>9EECDC75-F40F-481C-B5B6-3D6315CD36F8</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAgAAADAAAAAVAQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>7BFFD1D1-40AD-4044-9874-907E35C90923</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAgAAADAAAABTAQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E613EDAE-0205-492A-BAA0-FA6C7E7B7CFC</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv home</string>
+				<key>text</key>
+				<string>TV Home</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>C866658D-F6DA-4F7B-AC3C-A6B4CC1FA4E2</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAwAAARAAAAB9AQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>42A05004-EC72-499A-8642-5F3B01F9B249</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv return</string>
+				<key>text</key>
+				<string>TV Return</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>7E73569A-09B9-49DA-A8C0-77CC8EA82773</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAgAAALAAAAB4AQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>6DD7D1E8-0FD8-49E0-8880-CED72C727684</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv up</string>
+				<key>text</key>
+				<string>TV up</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>E4CC7AAB-36D4-495E-9146-DE320B152C31</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAgAAALAAAAB5AQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>98E5262A-8F99-4CF3-9703-B948ECD0EE85</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv down</string>
+				<key>text</key>
+				<string>TV down</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>E592BD46-B7FE-479A-8EF2-DCD13C62175E</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAgAAALAAAAB6AQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E13670A6-E466-4580-BD0D-18C9FD569E8B</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv left</string>
+				<key>text</key>
+				<string>TV Left</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>77CCC33A-2C62-47B4-BD2F-18A3B1A4DE1E</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAgAAALAAAAB7AQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>EEB56C58-4D06-45FD-A270-6F8A86FD423E</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv right</string>
+				<key>text</key>
+				<string>TV Right</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>6513D516-D123-4922-BE39-5F968CA8513D</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAwAADRAAAAAgAQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>76D02099-E4E4-417D-9B1E-E8DD75EE0233</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv mute</string>
+				<key>text</key>
+				<string>TV Mute</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>A4686136-F285-4B6D-96FF-FFD3E3A9AE5B</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv unmute</string>
+				<key>text</key>
+				<string>TV Unmute</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>B4CB7FF2-5C38-4AED-BE1A-E5BFBC4406E6</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAwAADRAAAAAhAQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>0E07347D-4BD1-4A9E-9E39-0E226B8B7ACE</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAgAAADAAAAAMAQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>D701B039-9C20-4FF9-83BB-CDE66FA93558</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv confirm</string>
+				<key>text</key>
+				<string>TV confirm</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>ECA2D1AA-2504-4699-8913-40ACC5712136</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import functools
+import httplib
+import Queue
+import os
+import re
+import string
+import socket
+import sys
+import threading
+import telnetlib
+import time
+import urllib
+
+if __name__ == '__main__':
+  try:
+    soapTemplate = """&lt;?xml version="1.0"?&gt;
+&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"            s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u="urn:schemas-sony-com:service:IRCC:1"&gt;
+&lt;!-- Home --&gt;
+      &lt;IRCCCode&gt;AAAAAgAAADAAAAAMAQ==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;
+    """
+  
+    conn = httplib.HTTPConnection("10.0.0.12", 8080)
+    conn.connect()
+    conn.putrequest('POST', "/upnp/control/IRCC")
+    conn.putheader("Content-type", "text/xml; charset=\"UTF-8\"")
+    conn.putheader("User-Agent", "Microsoft-Windows/6.1 UPnP/1.0")
+    conn.putheader("SOAPAction", "\"urn:schemas-sony-com:service:IRCC:1#X_SendIRCC\"")
+    conn.putheader("Content-Length", "%d" % len(soapTemplate))
+    conn.putheader("Host", "10.0.0.12:8080")
+    conn.endheaders()
+    conn.send(soapTemplate)
+
+    responseToREST = conn.getresponse()
+    print "Response: [" + str(responseToREST.status) + "] " + responseToREST.read()
+
+  except Exception as e:
+    print "Exception: " + str(e)
+  </string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>1A121382-C981-4446-8C3A-B0A8AA5BF06F</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>tv enter</string>
+				<key>text</key>
+				<string>TV enter</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>769E6ADB-F7DE-46DA-A28E-6DE71373D32A</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>0E07347D-4BD1-4A9E-9E39-0E226B8B7ACE</key>
+		<dict>
+			<key>ypos</key>
+			<real>1220</real>
+		</dict>
+		<key>16039760-F173-4AB8-9C73-DA7401D5DE23</key>
+		<dict>
+			<key>ypos</key>
+			<real>60</real>
+		</dict>
+		<key>1A121382-C981-4446-8C3A-B0A8AA5BF06F</key>
+		<dict>
+			<key>ypos</key>
+			<real>1460</real>
+		</dict>
+		<key>2A6E0E71-6579-4ED2-AB0E-4EB2D6016B5F</key>
+		<dict>
+			<key>ypos</key>
+			<real>180</real>
+		</dict>
+		<key>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</key>
+		<dict>
+			<key>ypos</key>
+			<real>50</real>
+		</dict>
+		<key>42A05004-EC72-499A-8642-5F3B01F9B249</key>
+		<dict>
+			<key>ypos</key>
+			<real>560</real>
+		</dict>
+		<key>4F438BBA-9FF8-4676-BD5E-C9FD7B6C3593</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>6513D516-D123-4922-BE39-5F968CA8513D</key>
+		<dict>
+			<key>ypos</key>
+			<real>990</real>
+		</dict>
+		<key>6DD7D1E8-0FD8-49E0-8880-CED72C727684</key>
+		<dict>
+			<key>ypos</key>
+			<real>660</real>
+		</dict>
+		<key>769E6ADB-F7DE-46DA-A28E-6DE71373D32A</key>
+		<dict>
+			<key>ypos</key>
+			<real>1460</real>
+		</dict>
+		<key>76D02099-E4E4-417D-9B1E-E8DD75EE0233</key>
+		<dict>
+			<key>ypos</key>
+			<real>1100</real>
+		</dict>
+		<key>77CCC33A-2C62-47B4-BD2F-18A3B1A4DE1E</key>
+		<dict>
+			<key>ypos</key>
+			<real>870</real>
+		</dict>
+		<key>7BFFD1D1-40AD-4044-9874-907E35C90923</key>
+		<dict>
+			<key>ypos</key>
+			<real>290</real>
+		</dict>
+		<key>7E73569A-09B9-49DA-A8C0-77CC8EA82773</key>
+		<dict>
+			<key>ypos</key>
+			<real>560</real>
+		</dict>
+		<key>98E5262A-8F99-4CF3-9703-B948ECD0EE85</key>
+		<dict>
+			<key>ypos</key>
+			<real>760</real>
+		</dict>
+		<key>9EECDC75-F40F-481C-B5B6-3D6315CD36F8</key>
+		<dict>
+			<key>ypos</key>
+			<real>290</real>
+		</dict>
+		<key>A4686136-F285-4B6D-96FF-FFD3E3A9AE5B</key>
+		<dict>
+			<key>ypos</key>
+			<real>1110</real>
+		</dict>
+		<key>A7E0760B-8684-40A1-85CD-75952EF48517</key>
+		<dict>
+			<key>ypos</key>
+			<real>130</real>
+		</dict>
+		<key>B4CB7FF2-5C38-4AED-BE1A-E5BFBC4406E6</key>
+		<dict>
+			<key>ypos</key>
+			<real>1220</real>
+		</dict>
+		<key>C866658D-F6DA-4F7B-AC3C-A6B4CC1FA4E2</key>
+		<dict>
+			<key>ypos</key>
+			<real>420</real>
+		</dict>
+		<key>D701B039-9C20-4FF9-83BB-CDE66FA93558</key>
+		<dict>
+			<key>ypos</key>
+			<real>1340</real>
+		</dict>
+		<key>DBB498D1-B9C9-4DC5-A039-C38AC6A2AE54</key>
+		<dict>
+			<key>ypos</key>
+			<real>180</real>
+		</dict>
+		<key>E13670A6-E466-4580-BD0D-18C9FD569E8B</key>
+		<dict>
+			<key>ypos</key>
+			<real>860</real>
+		</dict>
+		<key>E4CC7AAB-36D4-495E-9146-DE320B152C31</key>
+		<dict>
+			<key>ypos</key>
+			<real>670</real>
+		</dict>
+		<key>E592BD46-B7FE-479A-8EF2-DCD13C62175E</key>
+		<dict>
+			<key>ypos</key>
+			<real>770</real>
+		</dict>
+		<key>E613EDAE-0205-492A-BAA0-FA6C7E7B7CFC</key>
+		<dict>
+			<key>ypos</key>
+			<real>420</real>
+		</dict>
+		<key>ECA2D1AA-2504-4699-8913-40ACC5712136</key>
+		<dict>
+			<key>ypos</key>
+			<real>1340</real>
+		</dict>
+		<key>EEB56C58-4D06-45FD-A270-6F8A86FD423E</key>
+		<dict>
+			<key>ypos</key>
+			<real>980</real>
+		</dict>
+		<key>FABA99BB-EF69-4455-A1B5-4A9744FB3551</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
