@@ -14,5 +14,4 @@ Poorly designed workflow, but it does in fact work.
 - Configuring IP Address of AV Unit
 
 ### Solutions
-- Changing to different code ? XML / Ruby / Python
-- Passing Arguments via netcat?
+- Combine poorly written code into one library with the ability to modify user's IP address. (Thanks deanishe for suggestions!)
